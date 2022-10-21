@@ -1,9 +1,2 @@
-# Forecasting Transformer Lead Times
-This project is an exercise with Python, in which I used a dataset of Transformer Orders to forecast the lead times of transformers. I extracted, cleaned and loaded the data into an ARIMA model and generated predictions based on historical purchasing patterns. Modules used include:
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Datetime
-- Statsmodels
-- Scikit Learn
+# Personal Projects
+Here you can find all personal projects completed in my spare time. Please feel free to reach out to me with any questions. I also love suggestions for challenges I should tackle next!
